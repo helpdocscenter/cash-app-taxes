@@ -10,9 +10,9 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Set brother printer drivers'
-copyright = '2025, brother printer drivers'
-author = 'brother printer drivers Support Team'
+project = 'Cash App Taxes – Free Tax Filing Guide'
+copyright = '2025, Cash App Taxes'
+author = 'Cash App Taxes Support Team'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
@@ -26,7 +26,7 @@ extensions = []
 raw_enabled = True
 
 # Templates and patterns to ignore
-templates_path = ['_templates']  # Uncomment if using custom templates
+templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # -- Options for HTML output -------------------------------------------------
@@ -35,10 +35,9 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # html_theme = 'sphinx_rtd_theme'
 
 # Basic page info
-html_title = "How to Download, Install & Update Brother Printer Drivers"
-
-html_short_title = "brother printer drivers Setup Guide"
-html_favicon = 'favicon.ico'  # Place the file in the _static or root folder
+html_title = "Cash App Taxes – How to File Free Taxes With Cash App"
+html_short_title = "Cash App Taxes Filing Guide"
+html_favicon = 'favicon.ico'  # Place your favicon in _static or root
 
 # Hide "View page source"
 html_show_sourcelink = False
@@ -51,5 +50,5 @@ html_theme_options = {
     'show_powered_by': False,
 }
 
-# Static assets (uncomment if you have them)
+# Static assets (if any)
 # html_static_path = ['_static']
