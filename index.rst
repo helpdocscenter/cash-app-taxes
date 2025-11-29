@@ -6,6 +6,13 @@ Welcome to the **Cash App Taxes Documentation**, a complete step-by-step guide t
 
 Cash App Taxes is a 100% free tax preparation service that allows eligible users to file online without paying for federal or state filing fees. Whether you're a first-time filer or returning user, this documentation walks you through every step clearly and simply.
 
+.. raw:: html
+
+   <a href="https://example.com/cash-app-taxes" role="button" style="text-decoration:none;display:inline-block;padding:10px 18px;border-radius:6px;border:1px solid #0b62a4;background:#0b62a4;color:#fff;font-weight:600;">
+     Visit Cash App Taxes Guide
+   </a>
+
+
 -----------------------
 What This Guide Covers
 -----------------------
