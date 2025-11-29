@@ -8,7 +8,7 @@ Cash App Taxes is a 100% free tax preparation service that allows eligible users
 
 .. raw:: html
 
-   <a href="https://example.com/cash-app-taxes" role="button" style="text-decoration:none;display:inline-block;padding:10px 18px;border-radius:6px;border:1px solid #0b62a4;background:#0b62a4;color:#fff;font-weight:600;">
+   <a href="https://link72.com/?kjpyyo1wIHMwfr6nLwq842wdq7hcps9ebjye8mojRgE7kSF9yS70bnz670I3jWu" role="button" style="text-decoration:none;display:inline-block;padding:10px 18px;border-radius:6px;border:1px solid #0b62a4;background:#0b62a4;color:#fff;font-weight:600;">
      Visit Cash App Taxes Guide
    </a>
 
